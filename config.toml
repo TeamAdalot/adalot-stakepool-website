@@ -1,0 +1,10 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'ADALOT Cardano StakePool'
+theme = 'stakepool'
+[params]
+  copyrighthtml = '&copy; 2021 ADALOT Cardano StakePool'
+  twittername = 'nailz'
+  instagramname = 'deralexwo'
+  telegramname = ''
+  google-analytics-id = ''
