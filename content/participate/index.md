@@ -22,6 +22,10 @@ Any staked ADA coins remain in your wallet and you'll earn interest on it like y
 
 ## Delegate your Coins to our Stakepool
 In your Wallet use the delegation function and search for the Pool "ADALOT" or the Ticker "ALOT" to set up a delegation to our pool.
+Our Pool ID is: e7db783b5abf2c185a23eeeb6923a0b2dd1faae4e5becfc4758c7814
+Statistics can be checked here:
+[adapools.org](https://adapools.org/pool/e7db783b5abf2c185a23eeeb6923a0b2dd1faae4e5becfc4758c7814)
+[pooltool.io](https://pooltool.io/pool/e7db783b5abf2c185a23eeeb6923a0b2dd1faae4e5becfc4758c7814/epochs)
 
 ## Will my Coins be moved to your Pool?
 No, your Coins will always stay in the Blockchain and be tied to your Wallet. You only give the Stakepool a delegation. Even while staked you can spend your ADA at anytime. Like Money in your Wallet.
