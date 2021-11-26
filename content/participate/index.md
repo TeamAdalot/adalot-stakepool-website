@@ -21,6 +21,7 @@ If the price dips or there is a selloff in the market, the losses can be greater
 Any staked ADA coins remain in your wallet and you'll earn interest on it like you would in a savings account. So the risk is considered to be very low.
 
 ## Delegate your Coins to our Stakepool
+In your Wallet use the delegation function and search for the Pool "ADALOT" or the Ticker "ALOT" to set up a delegation to our pool.
 
 ## Will my Coins be moved to your Pool?
 No, your Coins will always stay in the Blockchain and be tied to your Wallet. You only give the Stakepool a delegation. Even while staked you can spend your ADA at anytime. Like Money in your Wallet.

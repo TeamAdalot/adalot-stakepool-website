@@ -4,7 +4,7 @@ title = 'ADALOT Cardano StakePool'
 theme = 'stakepool'
 [params]
   copyrighthtml = '&copy; 2021 ADALOT Cardano StakePool'
-  twittername = 'nailz'
+  twittername = 'adalot_staking'
   instagramname = 'deralexwo'
   telegramname = ''
   google-analytics-id = ''
